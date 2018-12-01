@@ -3,7 +3,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 myfile=/usr/bin/sevpn
 nettools=/usr/bin/netstat
-address=https://github.com/qq2496140885/softether-vpnserver/blob/master
+address=https://raw.githubusercontent.com/qq2496140885/softether-vpnserver/master
 rm -rf sevpn
 clear
 
